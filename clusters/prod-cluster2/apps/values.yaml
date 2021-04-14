@@ -4,3 +4,4 @@ spec:
   source:
     repoURL: https://github.com/roger-beathard/argocd-example-apps
     targetRevision: HEAD
+  cluster: prod-cluster2
