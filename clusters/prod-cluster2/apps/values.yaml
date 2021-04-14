@@ -1,0 +1,6 @@
+spec:
+  destination:
+    server: https://35.185.75.137
+  source:
+    repoURL: https://github.com/roger-beathard/argocd-example-apps
+    targetRevision: HEAD
